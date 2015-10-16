@@ -1,0 +1,10 @@
+<div>
+
+<div ng-transclude ng-class="{editClass: editMode == true}">
+
+
+
+</div>
+<button class='edButton' ng-show="editMode != true" ng-click="toggleEdit()" contenteditable="false">Edit</button>
+    <button class='edButton' ng-show="editMode == true" ng-click="toggleEdit()" contenteditable="false">Save</button>
+</div>

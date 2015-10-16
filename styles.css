@@ -1,0 +1,42 @@
+.textBox
+{
+    margin: 0 auto;
+    width: 300px;
+    border: 2px solid burlywood;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+ h2
+{
+     width: 400px;
+    display: block;
+    margin: 0 auto;
+    font-size: 46px;
+    color: cadetblue;
+     margin-bottom: 100px;
+}
+
+ body button
+ {
+     display:block;
+     text-align: center;
+     width: 200px;
+     margin: 0 auto;
+ }
+
+.edButton
+{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.editClass
+{
+
+    color: darkred;
+}
